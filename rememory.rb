@@ -52,7 +52,7 @@ now << "i still see #{that person} in #{that place}"
 
 sound << "the hiss of the broken faucet"
 thing << "your silhouette"
-thing << "your tortiose shell reading glasses"
+thing << "your tortoise shell reading glasses"
 thing << "your piercing blue eyes"
 thing << "your glowing smile"
 feeling << "that moment at the zoo"
