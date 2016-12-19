@@ -22,7 +22,7 @@ now = ["i thought we could be forever"]
 whisperings = ["i have always wanted to tell you"]
 
 place = ["the charles river"]
-thing = ["the chipped coffee mug in the cupbord"]
+thing = ["the chipped coffee mug in the cupboard"]
 person = ["you"]
 taste = ["your lips"]
 feeling = ["your embrace"]
